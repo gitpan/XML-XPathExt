@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+XPathExt.pm
+README
+t/05-basics.t
+META.yml                                Module meta-data (added by MakeMaker)
